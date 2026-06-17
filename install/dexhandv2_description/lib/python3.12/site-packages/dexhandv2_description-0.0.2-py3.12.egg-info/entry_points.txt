@@ -1,0 +1,2 @@
+[console_scripts]
+telemetry_node = dexhandv2_description.telemetry_node:main

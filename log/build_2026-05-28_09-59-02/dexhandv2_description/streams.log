@@ -1,0 +1,92 @@
+[1.319s] Invoking command in '/home/saumy/dex_hands_project/build/dexhandv2_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saumy/dex_hands_project/build/dexhandv2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/saumy/dex_hands_project/build/dexhandv2_description/build
+[1.672s] running develop
+[1.877s] Removing /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2-description.egg-link (link to .)
+[1.913s] Invoked command in '/home/saumy/dex_hands_project/build/dexhandv2_description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saumy/dex_hands_project/build/dexhandv2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/saumy/dex_hands_project/build/dexhandv2_description/build
+[1.915s] Invoking command in '/home/saumy/dex_hands_project/dexhandv2_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saumy/dex_hands_project/build/dexhandv2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/dexhandv2_description build --build-base /home/saumy/dex_hands_project/build/dexhandv2_description/build install --record /home/saumy/dex_hands_project/build/dexhandv2_description/install.log --single-version-externally-managed install_data --force
+[2.252s] running egg_info
+[2.292s] writing ../build/dexhandv2_description/dexhandv2_description.egg-info/PKG-INFO
+[2.292s] writing dependency_links to ../build/dexhandv2_description/dexhandv2_description.egg-info/dependency_links.txt
+[2.292s] writing requirements to ../build/dexhandv2_description/dexhandv2_description.egg-info/requires.txt
+[2.292s] writing top-level names to ../build/dexhandv2_description/dexhandv2_description.egg-info/top_level.txt
+[2.349s] reading manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+[2.350s] adding license file 'LICENSE'
+[2.351s] writing manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+[2.352s] running build
+[2.352s] running build_py
+[2.352s] creating /home/saumy/dex_hands_project/build/dexhandv2_description/build
+[2.352s] creating /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib
+[2.353s] creating /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description
+[2.353s] copying dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description
+[2.353s] running install
+[2.363s] running install_lib
+[2.389s] creating /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description
+[2.390s] copying /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description
+[2.390s] byte-compiling /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description/__init__.py to __init__.cpython-312.pyc
+[2.390s] running install_data
+[2.390s] copying resource/dexhandv2_description -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/ament_index/resource_index/packages
+[2.391s] copying package.xml -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description
+[2.391s] copying launch/display.launch.py -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/launch
+[2.391s] copying urdf/dexhandv2_cobot_right.xacro -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.391s] copying urdf/dexhandv2_right.trans -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.391s] copying urdf/dexhandv2_right.xacro -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.391s] copying urdf/dexhandv2_right.gazebo -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.391s] copying urdf/materials.xacro -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.391s] copying urdf/dexhandv2_right.urdf -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.392s] copying urdf/dexhandv2_cobot_right.trans -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.392s] copying urdf/dexhandv2_cobot_right.urdf -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.392s] copying urdf/dexhandv2_cobot_right.gazebo -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+[2.392s] copying rviz/urdf.rviz -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/rviz
+[2.392s] copying meshes/right/Pinky_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.393s] copying meshes/right/Thumb_Dist_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.394s] copying meshes/right/Pinky_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.398s] copying meshes/right/Ring_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.399s] copying meshes/right/Thumb_Prox_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.399s] copying meshes/right/Thumb_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.401s] copying meshes/right/Ring_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.403s] copying meshes/right/Midle_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.403s] copying meshes/right/Thumb_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.404s] copying meshes/right/Pinky_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.405s] copying meshes/right/Index_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.405s] copying meshes/right/Index_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.407s] copying meshes/right/Ring_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.409s] copying meshes/right/Pinky_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.410s] copying meshes/right/Thumb_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.410s] copying meshes/right/Middle_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.411s] copying meshes/right/Index_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.412s] copying meshes/right/Middle_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.412s] copying meshes/right/base_link.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.413s] copying meshes/right/Middle_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.414s] copying meshes/right/Ring_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.414s] copying meshes/right/Index_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+[2.416s] copying meshes/cobot_right/Pinky_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.417s] copying meshes/cobot_right/Thumb_Dist_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.418s] copying meshes/cobot_right/Pinky_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.422s] copying meshes/cobot_right/Ring_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.423s] copying meshes/cobot_right/Thumb_Prox_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.424s] copying meshes/cobot_right/Thumb_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.425s] copying meshes/cobot_right/Ring_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.427s] copying meshes/cobot_right/Midle_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.430s] copying meshes/cobot_right/Thumb_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.433s] copying meshes/cobot_right/Upper-Flange-Clamp.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.434s] copying meshes/cobot_right/Pinky_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.435s] copying meshes/cobot_right/Solid_Wrist_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.436s] copying meshes/cobot_right/Index_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.437s] copying meshes/cobot_right/Forearm_Duplex_Wrist_27-UpperChassis.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.439s] copying meshes/cobot_right/Index_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.442s] copying meshes/cobot_right/Ring_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.444s] copying meshes/cobot_right/Palm_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.449s] copying meshes/cobot_right/Pinky_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.450s] copying meshes/cobot_right/Thumb_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.454s] copying meshes/cobot_right/Middle_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.456s] copying meshes/cobot_right/Cobot_Forearm_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.461s] copying meshes/cobot_right/Index_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.465s] copying meshes/cobot_right/Middle_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.466s] copying meshes/cobot_right/base_link.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.467s] copying meshes/cobot_right/Middle_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.470s] copying meshes/cobot_right/Ring_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.471s] copying meshes/cobot_right/Index_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+[2.474s] running install_egg_info
+[2.501s] Copying ../build/dexhandv2_description/dexhandv2_description.egg-info to /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description-0.0.2-py3.12.egg-info
+[2.502s] running install_scripts
+[2.686s] writing list of installed files to '/home/saumy/dex_hands_project/build/dexhandv2_description/install.log'
+[2.733s] Invoked command in '/home/saumy/dex_hands_project/dexhandv2_description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saumy/dex_hands_project/build/dexhandv2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/dexhandv2_description build --build-base /home/saumy/dex_hands_project/build/dexhandv2_description/build install --record /home/saumy/dex_hands_project/build/dexhandv2_description/install.log --single-version-externally-managed install_data --force

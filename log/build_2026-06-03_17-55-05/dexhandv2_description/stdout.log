@@ -1,0 +1,23 @@
+running egg_info
+writing ../build/dexhandv2_description/dexhandv2_description.egg-info/PKG-INFO
+writing dependency_links to ../build/dexhandv2_description/dexhandv2_description.egg-info/dependency_links.txt
+writing entry points to ../build/dexhandv2_description/dexhandv2_description.egg-info/entry_points.txt
+writing requirements to ../build/dexhandv2_description/dexhandv2_description.egg-info/requires.txt
+writing top-level names to ../build/dexhandv2_description/dexhandv2_description.egg-info/top_level.txt
+reading manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+running build
+running build_py
+copying dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description
+running install
+running install_lib
+copying /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description
+byte-compiling /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description/__init__.py to __init__.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description-0.0.2-py3.12.egg-info' (and everything under it)
+Copying ../build/dexhandv2_description/dexhandv2_description.egg-info to /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description-0.0.2-py3.12.egg-info
+running install_scripts
+Installing telemetry_node script to /home/saumy/dex_hands_project/install/dexhandv2_description/lib/dexhand_description
+writing list of installed files to '/home/saumy/dex_hands_project/build/dexhandv2_description/install.log'

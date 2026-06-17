@@ -1,0 +1,25 @@
+[1.531s] Invoking command in '/home/saumy/dex_hands_project/dexhandv2_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saumy/dex_hands_project/build/dexhandv2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/dexhandv2_description build --build-base /home/saumy/dex_hands_project/build/dexhandv2_description/build install --record /home/saumy/dex_hands_project/build/dexhandv2_description/install.log --single-version-externally-managed install_data
+[1.887s] running egg_info
+[1.908s] writing ../build/dexhandv2_description/dexhandv2_description.egg-info/PKG-INFO
+[1.909s] writing dependency_links to ../build/dexhandv2_description/dexhandv2_description.egg-info/dependency_links.txt
+[1.909s] writing entry points to ../build/dexhandv2_description/dexhandv2_description.egg-info/entry_points.txt
+[1.909s] writing requirements to ../build/dexhandv2_description/dexhandv2_description.egg-info/requires.txt
+[1.909s] writing top-level names to ../build/dexhandv2_description/dexhandv2_description.egg-info/top_level.txt
+[1.959s] reading manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+[1.959s] adding license file 'LICENSE'
+[1.961s] writing manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+[1.961s] running build
+[1.961s] running build_py
+[1.961s] copying dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description
+[1.962s] running install
+[1.970s] running install_lib
+[1.993s] copying /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description
+[1.993s] byte-compiling /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description/__init__.py to __init__.cpython-312.pyc
+[1.994s] running install_data
+[1.995s] running install_egg_info
+[2.020s] removing '/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description-0.0.2-py3.12.egg-info' (and everything under it)
+[2.020s] Copying ../build/dexhandv2_description/dexhandv2_description.egg-info to /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description-0.0.2-py3.12.egg-info
+[2.021s] running install_scripts
+[2.174s] Installing telemetry_node script to /home/saumy/dex_hands_project/install/dexhandv2_description/lib/dexhand_description
+[2.174s] writing list of installed files to '/home/saumy/dex_hands_project/build/dexhandv2_description/install.log'
+[2.208s] Invoked command in '/home/saumy/dex_hands_project/dexhandv2_description' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saumy/dex_hands_project/build/dexhandv2_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/dexhandv2_description build --build-base /home/saumy/dex_hands_project/build/dexhandv2_description/build install --record /home/saumy/dex_hands_project/build/dexhandv2_description/install.log --single-version-externally-managed install_data

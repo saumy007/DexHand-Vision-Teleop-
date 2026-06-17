@@ -1,0 +1,88 @@
+running develop
+Removing /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2-description.egg-link (link to .)
+running egg_info
+writing ../build/dexhandv2_description/dexhandv2_description.egg-info/PKG-INFO
+writing dependency_links to ../build/dexhandv2_description/dexhandv2_description.egg-info/dependency_links.txt
+writing requirements to ../build/dexhandv2_description/dexhandv2_description.egg-info/requires.txt
+writing top-level names to ../build/dexhandv2_description/dexhandv2_description.egg-info/top_level.txt
+reading manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/dexhandv2_description/dexhandv2_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/saumy/dex_hands_project/build/dexhandv2_description/build
+creating /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib
+creating /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description
+copying dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description
+running install
+running install_lib
+creating /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description
+copying /home/saumy/dex_hands_project/build/dexhandv2_description/build/lib/dexhandv2_description/__init__.py -> /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description
+byte-compiling /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/dexhandv2_description -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/ament_index/resource_index/packages
+copying package.xml -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description
+copying launch/display.launch.py -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/launch
+copying urdf/dexhandv2_cobot_right.xacro -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_right.trans -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_right.xacro -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_right.gazebo -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/materials.xacro -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_right.urdf -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_cobot_right.trans -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_cobot_right.urdf -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying urdf/dexhandv2_cobot_right.gazebo -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/urdf
+copying rviz/urdf.rviz -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/rviz
+copying meshes/right/Pinky_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Thumb_Dist_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Pinky_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Ring_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Thumb_Prox_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Thumb_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Ring_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Midle_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Thumb_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Pinky_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Index_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Index_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Ring_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Pinky_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Thumb_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Middle_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Index_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Middle_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/base_link.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Middle_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Ring_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/right/Index_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/right
+copying meshes/cobot_right/Pinky_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Thumb_Dist_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Pinky_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Ring_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Thumb_Prox_KC_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Thumb_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Ring_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Midle_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Thumb_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Upper-Flange-Clamp.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Pinky_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Solid_Wrist_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Index_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Forearm_Duplex_Wrist_27-UpperChassis.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Index_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Ring_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Palm_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Pinky_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Thumb_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Middle_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Cobot_Forearm_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Index_Tip_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Middle_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/base_link.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Middle_Knuckle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Ring_Middle_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+copying meshes/cobot_right/Index_Knuckle_Cross_1.stl -> /home/saumy/dex_hands_project/install/dexhandv2_description/share/dexhandv2_description/meshes/cobot_right
+running install_egg_info
+Copying ../build/dexhandv2_description/dexhandv2_description.egg-info to /home/saumy/dex_hands_project/install/dexhandv2_description/lib/python3.12/site-packages/dexhandv2_description-0.0.2-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/saumy/dex_hands_project/build/dexhandv2_description/install.log'
